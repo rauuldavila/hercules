@@ -1,2 +1,2 @@
 # hercules
-Not finished, only pushed the helpers for Labour 05
+During 12 weeks, try to walk among the half-gods by doing the infamous twelve labors of Hercules
